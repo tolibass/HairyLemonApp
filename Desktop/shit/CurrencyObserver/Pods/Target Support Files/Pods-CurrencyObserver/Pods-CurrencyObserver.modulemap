@@ -1,0 +1,6 @@
+framework module Pods_CurrencyObserver {
+  umbrella header "Pods-CurrencyObserver-umbrella.h"
+
+  export *
+  module * { export * }
+}
